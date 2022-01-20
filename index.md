@@ -1,5 +1,6 @@
  
-This is a blog on herbs and spices in Yishun
+This is a blog on herbs and spices in a little corner of Yishun called GUI Kampung Kampus
 
  
- ![hong bao](https://user-images.githubusercontent.com/96427786/150357051-7954d674-bb61-486c-9256-f853e784959c.jpg)
+![IMG_20220114_180858_0](https://user-images.githubusercontent.com/96427786/150360849-e7dd476e-9689-4c6a-b6ed-81cdbb9c464e.jpg)
+
