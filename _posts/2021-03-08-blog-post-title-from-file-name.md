@@ -1,6 +1,6 @@
 ## Introduction to herbs
 
-The aim of this blog is to share the benefits of herbs found in GUI
+## The aim is to share information on herbs
 ---
 
 ### This is a header
